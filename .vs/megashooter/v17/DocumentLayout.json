@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manas\\megashooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|c:\\users\\manas\\megashooter\\assets\\script\\player\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\interactables\\collectcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactables\\collectcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\interactables\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactables\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\state\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\state\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\state\\searchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\state\\searchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\player\\inputmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\inputmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\enemy\\state\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\state\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|C:\\Users\\manas\\megashooter\\assets\\script\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A139CFBD-8EC7-4DF1-00D0-A82678C7BB46}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\State\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\State\\BaseState.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\State\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\State\\BaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:13:48.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerBullet.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerBullet.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerBullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:17:18.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputMotor.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\InputMotor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\InputMotor.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\InputMotor.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\InputMotor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:45:13.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchState.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\State\\SearchState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\State\\SearchState.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\State\\SearchState.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\State\\SearchState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:20:03.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\StateMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:17:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Btn.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Interactables\\Btn.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interactables\\Btn.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Interactables\\Btn.cs",
+              "RelativeToolTip": "Assets\\Script\\Interactables\\Btn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:08:38.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Bullet.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:20:00.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:24:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyHP.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\EnemyHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyHP.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\EnemyHP.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyHP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InputManager.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Script\\InputManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:00:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerInteract.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerInteract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:54:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\HealthBar.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:44:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\AttackState.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\AttackState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:55:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerLook.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerLook.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerLook.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerLook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:39:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectCube.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Interactables\\CollectCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interactables\\CollectCube.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Interactables\\CollectCube.cs",
+              "RelativeToolTip": "Assets\\Script\\Interactables\\CollectCube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:23:00.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\Path.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Path.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\Path.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Path.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:31:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\State\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\State\\PatrolState.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Enemy\\State\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\State\\PatrolState.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:42:12.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interactable.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Script\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:56:36.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerUI.cs",
+              "ToolTip": "C:\\Users\\manas\\megashooter\\Assets\\Script\\Player\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:36:20.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
